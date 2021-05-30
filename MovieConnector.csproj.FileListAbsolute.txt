@@ -1,0 +1,31 @@
+C:\Users\Malik\Downloads\MovieDB\MovieDB\MovieConnector\bin\Debug\MovieConnector.dll
+C:\Users\Malik\Downloads\MovieDB\MovieDB\MovieConnector\bin\Debug\MovieConnector.pdb
+C:\Users\Malik\Downloads\MovieDB\MovieDB\MovieConnector\obj\Debug\MovieConnector.csprojResolveAssemblyReference.cache
+C:\Users\Malik\Downloads\MovieDB\MovieDB\MovieConnector\obj\Debug\MovieConnector.dll
+C:\Users\Malik\Downloads\MovieDB\MovieDB\MovieConnector\obj\Debug\MovieConnector.pdb
+C:\Users\mbondaren\Downloads\MovieDB\MovieDB\MovieConnector\bin\Debug\MovieConnector.dll
+C:\Users\mbondaren\Downloads\MovieDB\MovieDB\MovieConnector\bin\Debug\MovieConnector.pdb
+C:\Users\mbondaren\Downloads\MovieDB\MovieDB\MovieConnector\obj\Debug\MovieConnector.csprojResolveAssemblyReference.cache
+C:\Users\mbondaren\Downloads\MovieDB\MovieDB\MovieConnector\obj\Debug\MovieConnector.dll
+C:\Users\mbondaren\Downloads\MovieDB\MovieDB\MovieConnector\obj\Debug\MovieConnector.pdb
+C:\Users\sctcad\Downloads\MovieDB\MovieDB\MovieConnector\bin\Debug\MovieConnector.dll
+C:\Users\sctcad\Downloads\MovieDB\MovieDB\MovieConnector\bin\Debug\MovieConnector.pdb
+C:\Users\sctcad\Downloads\MovieDB\MovieDB\MovieConnector\obj\Debug\MovieConnector.csprojResolveAssemblyReference.cache
+C:\Users\sctcad\Downloads\MovieDB\MovieDB\MovieConnector\obj\Debug\MovieConnector.dll
+C:\Users\sctcad\Downloads\MovieDB\MovieDB\MovieConnector\obj\Debug\MovieConnector.pdb
+C:\Users\Malik\Desktop\3 semester\C#\MovieDB\MovieDB\MovieConnector\bin\Debug\MovieConnector.dll
+C:\Users\Malik\Desktop\3 semester\C#\MovieDB\MovieDB\MovieConnector\bin\Debug\MovieConnector.pdb
+C:\Users\Malik\Desktop\3 semester\C#\MovieDB\MovieDB\MovieConnector\obj\Debug\MovieConnector.dll
+C:\Users\Malik\Desktop\3 semester\C#\MovieDB\MovieDB\MovieConnector\obj\Debug\MovieConnector.pdb
+C:\Users\HP\Documents\Datamanipulatie\Movie-app-master\Movie-app-master\MovieApp\MovieConnector\bin\Debug\MovieConnector.dll
+C:\Users\HP\Documents\Datamanipulatie\Movie-app-master\Movie-app-master\MovieApp\MovieConnector\bin\Debug\MovieConnector.pdb
+C:\Users\HP\Documents\Datamanipulatie\Movie-app-master\Movie-app-master\MovieApp\MovieConnector\obj\Debug\MovieConnector.csprojAssemblyReference.cache
+C:\Users\HP\Documents\Datamanipulatie\Movie-app-master\Movie-app-master\MovieApp\MovieConnector\obj\Debug\MovieConnector.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Datamanipulatie\Movie-app-master\Movie-app-master\MovieApp\MovieConnector\obj\Debug\MovieConnector.dll
+C:\Users\HP\Documents\Datamanipulatie\Movie-app-master\Movie-app-master\MovieApp\MovieConnector\obj\Debug\MovieConnector.pdb
+C:\Users\HP\Documents\Datamanipulatie\Nieuwe map\Movie-app\Movie-app-master\MovieApp\MovieConnector\bin\Debug\MovieConnector.dll
+C:\Users\HP\Documents\Datamanipulatie\Nieuwe map\Movie-app\Movie-app-master\MovieApp\MovieConnector\bin\Debug\MovieConnector.pdb
+C:\Users\HP\Documents\Datamanipulatie\Nieuwe map\Movie-app\Movie-app-master\MovieApp\MovieConnector\obj\Debug\MovieConnector.csprojAssemblyReference.cache
+C:\Users\HP\Documents\Datamanipulatie\Nieuwe map\Movie-app\Movie-app-master\MovieApp\MovieConnector\obj\Debug\MovieConnector.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Datamanipulatie\Nieuwe map\Movie-app\Movie-app-master\MovieApp\MovieConnector\obj\Debug\MovieConnector.dll
+C:\Users\HP\Documents\Datamanipulatie\Nieuwe map\Movie-app\Movie-app-master\MovieApp\MovieConnector\obj\Debug\MovieConnector.pdb
